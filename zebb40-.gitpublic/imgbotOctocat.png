@@ -1,0 +1,9 @@
+echo "# zebb40-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://githugit remote add origin https://github.com/zakkattack70/zebb40-.git
+git branch -M main
+git push -u origin mainb.com/zakkattack70/zebb40-.git
+git push -u origin main
